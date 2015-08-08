@@ -1,0 +1,9 @@
+﻿Build started 08/08/2015 23:08:35.
+     1>Project "c:\Users\Simon\documents\Projects\cpp\gem\gem\gem\gem.vcxproj" on node 2 (Build target(s)).
+     1>Link:
+         gem.vcxproj -> c:\users\simon\documents\Projects\cpp\gem\gem\x64\Debug\gem.exe
+     1>Done Building Project "c:\Users\Simon\documents\Projects\cpp\gem\gem\gem\gem.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.09
